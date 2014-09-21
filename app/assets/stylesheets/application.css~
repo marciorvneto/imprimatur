@@ -49,11 +49,11 @@ nav ul li {
 }
 
 .conteudo {
-	height: 700px;
+	height: 500px;
 }
 
 .rodape {
-	height: 300px;
+	height: 200px;
 	background-color: #111111;
 }
 

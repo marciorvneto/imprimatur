@@ -21,9 +21,7 @@
 		</ul>
 	</nav>
 
-	<div class="conteudo">
-		<%= yield %>
-	</div>
+<%= yield %>
 
 	<div class="rodape">
 		<p>Rodapé</p>
